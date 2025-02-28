@@ -9,6 +9,10 @@
 
 #### 블로그
 https://bjwan-career.tistory.com/
+
+### 운영 중인 사이트
+- [Next Stock](https://next-stock.com/)  
+  실시간 주식 시장 정보와 AI 기반 뉴스 분석 서비스를 제공하는 플랫폼
  
 ### Tech Stack
 **Languages**
