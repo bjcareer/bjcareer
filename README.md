@@ -41,6 +41,8 @@
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=00ADD8)
+
+**DB**
 - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
